@@ -1,16 +1,21 @@
-## Hi there 👋
+<h2>Sobre mi 😃</h2>
+<!--Intro start-->
 
-<!--
-**MONKEY-LOVE/MONKEY-LOVE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+🎓 INGENIERO EN INFORMÁTICA
+<!--Intro end-->
+  </p>
+<br>
 
-Here are some ideas to get you started:
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,postgres,git&perline=12" />
+  </a>
+</p>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+       
+<!--- stats (end) -->
