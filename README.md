@@ -3,9 +3,6 @@
 
 <p align="left">
 🎓 INGENIERO EN INFORMÁTICA
-<!--Intro end-->
-  </p>
-<br>
 
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
