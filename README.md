@@ -10,9 +10,4 @@
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/MONKEY-LOVE/MONKEY-LOVE/output/snake.svg" alt="Snake animation" />
-<br>
 
-
-       
-<!--- stats (end) -->
