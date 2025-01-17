@@ -9,6 +9,8 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,postgres,git,cs&perline=12" />
   </a>
 </p>
+
+<img src="https://raw.githubusercontent.com/MONKEY-LOVE/MONKEY-LOVE/output/snake.svg" alt="Snake animation" />
 <br>
 
 
